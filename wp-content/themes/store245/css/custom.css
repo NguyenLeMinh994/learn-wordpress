@@ -1,0 +1,11 @@
+#content .item-product .thumb img{
+    height: 200px;
+    object-fit: contain;
+}
+#content .item-product .info-product .price *{
+    color: black;
+}
+#content .item-product .info-product .price del *{
+    font-size: 12px;
+    text-decoration: line-through;
+}
